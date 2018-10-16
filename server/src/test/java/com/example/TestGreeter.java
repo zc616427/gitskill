@@ -32,27 +32,27 @@ public class TestGreeter {
   }
 }
 
-public class Test1{
+ class Test1{
   @Test public void aa() {
     System.out("Hello1")
   }
   }
-public class Test2{
+ class Test2{
   @Test public void aa() {
     System.out("Hello2")
   }
   }
-public class Test3{
+ class Test3{
   @Test public void aa() {
     System.out("Hello3")
   }
   }
-public class Test4{
+ class Test4{
   @Test public void aa() {
     System.out("Hello4")
   }
   }
-public class Test5{
+ class Test5{
   @Test public void aa() {
     System.out("Hello5")
   }
